@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.inputBox{
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  padding: 3px 10px;
+  margin: 50px 10px 80px 10px ;
+  width: 100%
+}
+.buttonDesign{
+  height: 40px;
+  width: 70px;
+  margin-top: 50px;
+}
